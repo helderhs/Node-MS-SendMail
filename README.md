@@ -1,5 +1,5 @@
-# Backend em nodejs
-Backend desenvolvido com nodejs, com autenticação JWT, sequelize, conecção direta com banco de dados via comandos SQL dentre outros exemplos.
+# NodeJS micro service de envio de emails.
+Backend desenvolvido com nodejs, microservice com CRON para envio de email a cada X segundos, com post para recebimento de emails.
 
 ## To run this project
 
